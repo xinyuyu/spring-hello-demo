@@ -1,2 +1,1 @@
-# spring-hello-demo
-spirng 学习集合
+java线程学习集合
